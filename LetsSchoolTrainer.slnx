@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LetsSchoolTrainer/LetsSchoolTrainer.csproj" />
+  </Folder>
+</Solution>
